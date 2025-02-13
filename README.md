@@ -1,4 +1,4 @@
-#Apurva Dalvi's Project Repository
+Apurva Dalvi's Project Repository
 
 Welcome to my project repository! 🚀 This is a collection of all my personal and professional projects, covering a variety of topics including machine learning, data science, automation, web scraping, and more. Whether you're here to explore, learn, or collaborate, I hope you find something valuable.
 
