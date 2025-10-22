@@ -1,0 +1,124 @@
+customer_id,name,email,signup_date,source,region,plan_selected,marketing_opt_in,age,gender,age_group,ticket_id,ticket_date,issue_type,resolved,days_since_signup
+CUST00005,John Gonzales,john5@mailhub.org,2024-01-06,Facebook,South,Premium,No,34,Other,31-40,TKT0008-1,2024-06-04,Other,Yes,150
+CUST00007,Michael Bailey,michael7@mailhub.org,2024-01-08,YouTube,Central,Pro,Yes,60,Other,51-60,TKT0036-1,2024-08-07,Billing,Yes,212
+CUST00007,Michael Bailey,michael7@mailhub.org,2024-01-08,YouTube,Central,Pro,Yes,60,Other,51-60,TKT0036-2,2024-08-23,Other,Yes,228
+CUST00009,Cindy Anderson,,2024-01-10,Google,East,Premium,No,29,female,21-30,TKT0003-1,2024-10-03,Technical Error,No,267
+CUST00017,Patty Paul,patty17@inboxmail.net,2024-01-18,YouTube,East,Pro,No,53,Non-Binary,51-60,TKT0030-1,2024-02-03,Other,Yes,16
+CUST00017,Patty Paul,patty17@inboxmail.net,2024-01-18,YouTube,East,Pro,No,53,Non-Binary,51-60,TKT0030-2,2024-02-09,Other,Yes,22
+CUST00024,Mitchell Kerr,mitchell24@mailhub.org,2024-01-25,,North,Pro,No,21,Female,21-30,TKT0033-1,2024-02-21,Technical Error,Yes,27
+CUST00024,Mitchell Kerr,mitchell24@mailhub.org,2024-01-25,,North,Pro,No,21,Female,21-30,TKT0033-2,2024-02-08,Other,Yes,14
+CUST00024,Mitchell Kerr,mitchell24@mailhub.org,2024-01-25,,North,Pro,No,21,Female,21-30,TKT0033-3,2024-02-05,Login Issue,Yes,11
+CUST00025,Latoya Marks,latoya25@inboxmail.net,2024-01-26,Referral,South,Premium,No,40,Non-Binary,31-40,TKT0059-1,2024-02-24,Account Setup,Yes,29
+CUST00033,Jodi Curry,jodi33mailhub.org,2024-02-03,YouTube,East,Basic,Yes,,Male,,TKT0032-1,2024-03-10,Account Setup,Yes,36
+CUST00042,Antonio Wilson Jr.,antonio42@example.com,2024-02-12,Instagram,North,,No,34,Male,31-40,TKT0025-1,2024-12-04,Login Issue,Yes,296
+CUST00042,Antonio Wilson Jr.,antonio42@example.com,2024-02-12,Instagram,North,,No,34,Male,31-40,TKT0025-2,2024-12-30,Billing,Yes,322
+CUST00045,Tyler Ortiz,,2024-02-15,LinkedIn,West,Pro,No,25,Male,21-30,TKT0013-1,2024-02-29,Account Setup,Yes,14
+CUST00045,Tyler Ortiz,,2024-02-15,LinkedIn,West,Pro,No,25,Male,21-30,TKT0013-2,2024-03-05,Other,No,19
+CUST00046,Luke Crane,luke46@inboxmail.net,2024-02-16,Facebook,North,Pro,Yes,60,female,51-60,TKT0038-1,2024-02-22,Other,Yes,6
+CUST00046,Luke Crane,luke46@inboxmail.net,2024-02-16,Facebook,North,Pro,Yes,60,female,51-60,TKT0038-2,2024-02-24,Billing,No,8
+CUST00057,Marissa Holland,marissa57@mailhub.org,2024-02-27,Google,West,Premium,Yes,29,female,21-30,TKT0011-1,2024-03-12,Account Setup,Yes,14
+CUST00057,Marissa Holland,marissa57@mailhub.org,2024-02-27,Google,West,Premium,Yes,29,female,21-30,TKT0011-2,2024-02-27,Other,Yes,0
+CUST00060,Steven Allen,steven60@inboxmail.net,2024-03-01,LinkedIn,East,Basic,No,53,female,51-60,TKT0043-1,2024-01-11,Login Issue,Yes,-50
+CUST00060,Steven Allen,steven60@inboxmail.net,2024-03-01,LinkedIn,East,Basic,No,53,female,51-60,TKT0043-2,2024-01-30,Login Issue,Yes,-31
+CUST00060,Steven Allen,steven60@inboxmail.net,2024-03-01,LinkedIn,East,Basic,No,53,female,51-60,TKT0043-3,2024-01-19,Login Issue,No,-42
+CUST00063,Tamara Cox,,2024-03-04,Referral,Central,Pro,No,21,Male,21-30,TKT0045-1,2024-04-23,Account Setup,No,50
+CUST00063,Tamara Cox,,2024-03-04,Referral,Central,Pro,No,21,Male,21-30,TKT0045-2,2024-04-06,Account Setup,Yes,33
+CUST00073,Charles Johns,charles73@example.com,2024-03-14,Facebook,North,Basic,No,40,Other,31-40,TKT0039-1,2024-03-18,Other,Yes,4
+CUST00073,Charles Johns,charles73@example.com,2024-03-14,Facebook,North,Basic,No,40,Other,31-40,TKT0039-2,2024-04-01,Other,Yes,18
+CUST00075,Tamara Cook,tamara75@inboxmail.net,2024-03-16,LinkedIn,South,Basic,No,53,Non-Binary,51-60,TKT0053-1,2024-03-30,Login Issue,Yes,14
+CUST00075,Tamara Cook,tamara75@inboxmail.net,2024-03-16,LinkedIn,South,Basic,No,53,Non-Binary,51-60,TKT0053-2,2024-04-10,Login Issue,No,25
+CUST00076,Dalton Herrera,dalton76@example.com,2024-03-17,Instagram,East,Basic,No,,Other,,TKT0041-1,2024-04-13,Account Setup,Yes,27
+CUST00076,Dalton Herrera,dalton76@example.com,2024-03-17,Instagram,East,Basic,No,,Other,,TKT0041-2,2024-04-07,Account Setup,Yes,21
+CUST00077,Meagan Beard,meagan77@mailhub.org,2024-03-18,Facebook,,Basic,No,47,Non-Binary,41-50,TKT0044-1,2024-04-07,Billing,Yes,20
+CUST00077,Meagan Beard,meagan77@mailhub.org,2024-03-18,Facebook,,Basic,No,47,Non-Binary,41-50,TKT0044-2,2024-03-30,Other,Yes,12
+CUST00078,Andrew Jenkins,andrew78@inboxmail.net,2024-03-19,YouTube,South,Basic,No,21,Male,21-30,TKT0020-1,2024-04-07,Other,Yes,19
+CUST00078,Andrew Jenkins,andrew78@inboxmail.net,2024-03-19,YouTube,South,Basic,No,21,Male,21-30,TKT0020-2,2024-04-13,Billing,Yes,25
+CUST00090,Mark Hensley,,2024-03-31,Instagram,East,,Yes,29,,21-30,TKT0037-1,2024-04-14,Technical Error,Yes,14
+CUST00090,Mark Hensley,,2024-03-31,Instagram,East,,Yes,29,,21-30,TKT0037-2,2024-04-25,Technical Error,No,25
+CUST00092,Melissa Daniels,melissa92@mailhub.org,2024-04-02,Referral,North,Basic,No,29,Male,21-30,TKT0057-1,2024-02-11,Billing,Yes,-51
+CUST00093,Anna Meza,anna93@example.com,2024-04-03,,West,Pro,Yes,40,Other,31-40,TKT0040-1,2024-03-10,Login Issue,Yes,-24
+CUST00097,Bryan George,bryan97@inboxmail.net,2024-04-07,YouTube,East,Basic,No,34,Other,31-40,TKT0056-1,2024-07-12,Login Issue,No,96
+CUST00097,Bryan George,bryan97@inboxmail.net,2024-04-07,YouTube,East,Basic,No,34,Other,31-40,TKT0056-2,2024-07-16,Technical Error,Yes,100
+CUST00104,,mrs.4@inboxmail.net,2024-04-14,Google,South,Basic,No,40,Female,31-40,TKT0024-1,2024-04-14,Login Issue,Yes,0
+CUST00104,,mrs.4@inboxmail.net,2024-04-14,Google,South,Basic,No,40,Female,31-40,TKT0024-2,2024-04-24,Technical Error,Yes,10
+CUST00104,,mrs.4@inboxmail.net,2024-04-14,Google,South,Basic,No,40,Female,31-40,TKT0024-3,2024-04-25,Billing,Yes,11
+CUST00109,Margaret Franco,margaret9@example.com,2024-04-19,YouTube,East,Pro,,53,Non-Binary,51-60,TKT0007-1,2024-05-17,Billing,Yes,28
+CUST00109,Margaret Franco,margaret9@example.com,2024-04-19,YouTube,East,Pro,,53,Non-Binary,51-60,TKT0007-2,2024-04-21,Billing,No,2
+CUST00109,Margaret Franco,margaret9@example.com,2024-04-19,YouTube,East,Pro,,53,Non-Binary,51-60,TKT0007-3,2024-05-01,Technical Error,Yes,12
+CUST00111,Mr. Robert Horne,mr.11@example.com,2024-04-21,Instagram,North,Pro,Yes,53,Male,51-60,TKT0048-1,2024-04-28,Billing,Yes,7
+CUST00113,Keith Myers,keith13@mailhub.org,2024-04-23,YouTube,East,Pro,Yes,25,female,21-30,TKT0021-1,2024-04-26,Login Issue,Yes,3
+CUST00113,Keith Myers,keith13@mailhub.org,2024-04-23,YouTube,East,Pro,Yes,25,female,21-30,TKT0021-2,2024-04-27,Billing,Yes,4
+CUST00113,Keith Myers,keith13@mailhub.org,2024-04-23,YouTube,East,Pro,Yes,25,female,21-30,TKT0021-3,2024-04-27,Technical Error,Yes,4
+CUST00119,Rachel Kelley,rachel19@mailhub.org,2024-04-29,Referral,North,Pro,,47,Other,41-50,TKT0035-1,2024-05-05,Other,No,6
+CUST00144,Jasmine Golden,,2024-05-24,Google,Central,Premium,No,34,Non-Binary,31-40,TKT0051-1,2024-06-21,Billing,Yes,28
+CUST00144,Jasmine Golden,,2024-05-24,Google,Central,Premium,No,34,Non-Binary,31-40,TKT0051-2,2024-05-28,Login Issue,Yes,4
+CUST00144,Jasmine Golden,,2024-05-24,Google,Central,Premium,No,34,Non-Binary,31-40,TKT0051-3,2024-06-16,Billing,Yes,23
+CUST00148,Richard Zuniga,richard48@inboxmail.net,2024-05-28,Google,South,Basic,Yes,25,Other,21-30,TKT0018-1,2024-06-01,Other,Yes,4
+CUST00148,Richard Zuniga,richard48@inboxmail.net,2024-05-28,Google,South,Basic,Yes,25,Other,21-30,TKT0018-2,2024-06-08,Billing,Yes,11
+CUST00148,Richard Zuniga,richard48@inboxmail.net,2024-05-28,Google,South,Basic,Yes,25,Other,21-30,TKT0018-3,2024-06-01,Login Issue,Yes,4
+CUST00152,Anthony Alvarado,anthony52@example.com,2024-06-01,YouTube,South,Basic,No,60,Male,51-60,TKT0002-1,2024-01-10,Other,Yes,-143
+CUST00157,Louis Gibson,louis57@mailhub.org,2024-06-06,Instagram,Central,Pro,,34,Male,31-40,TKT0028-1,2024-06-26,Other,Yes,20
+CUST00164,Julie Schneider,julie64@mailhub.org,2024-06-13,Referral,West,Premium,Yes,40,,31-40,TKT0031-1,2024-06-21,Login Issue,Yes,8
+CUST00164,Julie Schneider,julie64@mailhub.org,2024-06-13,Referral,West,Premium,Yes,40,,31-40,TKT0031-2,2024-07-02,Login Issue,Yes,19
+CUST00164,Julie Schneider,julie64@mailhub.org,2024-06-13,Referral,West,Premium,Yes,40,,31-40,TKT0031-3,2024-07-09,Account Setup,Yes,26
+CUST00165,,brian65@mailhub.org,2024-06-14,Referral,East,Basic,Yes,25,Male,21-30,TKT0019-1,2024-06-28,Login Issue,Yes,14
+CUST00175,Erika Ellis,erika75@inboxmail.net,2024-06-24,YouTube,Central,Pro,Yes,53,Male,51-60,TKT0009-1,2024-07-09,Technical Error,No,15
+CUST00175,Erika Ellis,erika75@inboxmail.net,2024-06-24,YouTube,Central,Pro,Yes,53,Male,51-60,TKT0009-2,2024-07-08,Technical Error,Yes,14
+CUST00180,Daniel Hale,,2024-06-29,YouTube,West,Premium,Yes,25,Male,21-30,TKT0050-1,2024-07-20,Login Issue,Yes,21
+CUST00180,Daniel Hale,,2024-06-29,YouTube,West,Premium,Yes,25,Male,21-30,TKT0050-2,2024-07-19,Technical Error,Yes,20
+CUST00180,Daniel Hale,,2024-06-29,YouTube,West,Premium,Yes,25,Male,21-30,TKT0050-3,2024-07-14,Other,Yes,15
+CUST00182,Katie Baker,katie82@example.com,2024-07-01,Google,North,Pro,Yes,34,female,31-40,TKT0014-1,2024-02-05,Account Setup,Yes,-147
+CUST00182,Katie Baker,katie82@example.com,2024-07-01,Google,North,Pro,Yes,34,female,31-40,TKT0014-2,2024-01-25,Technical Error,Yes,-158
+CUST00192,Jacob Mclean,jacob92@inboxmail.net,2024-07-11,LinkedIn,South,Basic,Yes,25,female,21-30,TKT0058-1,2024-12-02,Billing,Yes,144
+CUST00192,Jacob Mclean,jacob92@inboxmail.net,2024-07-11,LinkedIn,South,Basic,Yes,25,female,21-30,TKT0058-2,2024-11-28,Account Setup,Yes,140
+CUST00192,Jacob Mclean,jacob92@inboxmail.net,2024-07-11,LinkedIn,South,Basic,Yes,25,female,21-30,TKT0058-3,2024-11-18,Login Issue,Yes,130
+CUST00196,James Porter,james96@inboxmail.net,2024-07-15,YouTube,South,Pro,Yes,34,Male,31-40,TKT0006-1,2024-07-16,Billing,Yes,1
+CUST00196,James Porter,james96@inboxmail.net,2024-07-15,YouTube,South,Pro,Yes,34,Male,31-40,TKT0006-2,2024-07-15,Login Issue,Yes,0
+CUST00203,Kevin Brown,kevin3@mailhub.org,2024-07-22,Instagram,West,Basic,,29,female,21-30,TKT0000-1,2024-08-17,Billing,Yes,26
+CUST00203,Kevin Brown,kevin3@mailhub.org,2024-07-22,Instagram,West,Basic,,29,female,21-30,TKT0000-2,2024-07-22,Technical Error,Yes,0
+CUST00203,Kevin Brown,kevin3@mailhub.org,2024-07-22,Instagram,West,Basic,,29,female,21-30,TKT0000-3,2024-07-22,Other,Yes,0
+CUST00211,Lisa Taylor,lisa11@mailhub.org,2024-07-30,LinkedIn,West,Pro,No,29,Female,21-30,TKT0017-1,2024-08-28,Login Issue,Yes,29
+CUST00211,Lisa Taylor,lisa11@mailhub.org,2024-07-30,LinkedIn,West,Pro,No,29,Female,21-30,TKT0017-2,2024-08-19,Login Issue,No,20
+CUST00215,Amanda Whitaker,amanda15@mailhub.org,2024-08-03,,South,Pro,No,40,Male,31-40,TKT0034-1,2024-03-11,Other,Yes,-145
+CUST00218,Jared Smith,jared18@example.com,2024-08-06,Google,West,Pro,Yes,29,Non-Binary,21-30,TKT0012-1,2024-06-14,Technical Error,Yes,-53
+CUST00221,Matthew Moss,matthew21@example.com,2024-08-09,YouTube,East,Basic,No,25,Male,21-30,TKT0015-1,2024-09-12,Billing,No,34
+CUST00221,Matthew Moss,matthew21@example.com,2024-08-09,YouTube,East,Basic,No,25,Male,21-30,TKT0015-2,2024-09-30,Login Issue,Yes,52
+CUST00226,Christopher Miles,christopher26@example.com,2024-08-14,Facebook,North,Pro,No,29,female,21-30,TKT0005-1,2024-08-16,Billing,Yes,2
+CUST00226,Christopher Miles,christopher26@example.com,2024-08-14,Facebook,North,Pro,No,29,female,21-30,TKT0005-2,2024-09-04,Billing,Yes,21
+CUST00229,Kevin Colon,kevin29@example.com,2024-08-17,,North,UnknownPlan,No,29,Female,21-30,TKT0047-1,2024-08-17,Other,Yes,0
+CUST00229,Kevin Colon,kevin29@example.com,2024-08-17,,North,UnknownPlan,No,29,Female,21-30,TKT0047-2,2024-08-19,Login Issue,No,2
+CUST00229,Kevin Colon,kevin29@example.com,2024-08-17,,North,UnknownPlan,No,29,Female,21-30,TKT0047-3,2024-08-26,Technical Error,Yes,9
+CUST00231,Ethan Clay,ethan31@mailhub.org,2024-08-19,Instagram,East,Pro,No,21,Male,21-30,TKT0049-1,2024-08-26,Billing,Yes,7
+CUST00231,Ethan Clay,ethan31@mailhub.org,2024-08-19,Instagram,East,Pro,No,21,Male,21-30,TKT0049-2,2024-09-15,Technical Error,Yes,27
+CUST00233,Laura Brown,laura33@inboxmail.net,2024-08-21,Facebook,Central,Pro,No,40,Female,31-40,TKT0004-1,2024-09-18,Other,Yes,28
+CUST00233,Laura Brown,laura33@inboxmail.net,2024-08-21,Facebook,Central,Pro,No,40,Female,31-40,TKT0004-2,2024-08-21,Account Setup,Yes,0
+CUST00233,Laura Brown,laura33@inboxmail.net,2024-08-21,Facebook,Central,Pro,No,40,Female,31-40,TKT0004-3,2024-09-14,Billing,No,24
+CUST00234,Joe Crosby,,2024-08-22,Instagram,North,UnknownPlan,Yes,47,Male,41-50,TKT0046-1,2024-09-08,Login Issue,Yes,17
+CUST00237,Olivia Schmitt,olivia37@example.com,2024-08-25,Facebook,East,Pro,No,34,female,31-40,TKT0010-1,2024-09-15,Account Setup,Yes,21
+CUST00237,Olivia Schmitt,olivia37@example.com,2024-08-25,Facebook,East,Pro,No,34,female,31-40,TKT0010-2,2024-09-23,Other,Yes,29
+CUST00237,Olivia Schmitt,olivia37@example.com,2024-08-25,Facebook,East,Pro,No,34,female,31-40,TKT0010-3,2024-09-19,Login Issue,Yes,25
+CUST00238,Misty Blair,misty38@example.com,2024-08-26,Instagram,West,Premium,Yes,53,Male,51-60,TKT0029-1,2024-08-30,Login Issue,Yes,4
+CUST00238,Misty Blair,misty38@example.com,2024-08-26,Instagram,West,Premium,Yes,53,Male,51-60,TKT0029-2,2024-08-28,Login Issue,Yes,2
+CUST00239,David Sparks,david39@example.com,2024-08-27,LinkedIn,East,Pro,No,21,Male,21-30,TKT0052-1,2024-09-18,Login Issue,Yes,22
+CUST00249,Jamie Calhoun,jamie49@example.com,2024-09-06,Google,North,Premium,No,25,Non-Binary,21-30,TKT0022-1,2024-06-18,Billing,No,-80
+CUST00249,Jamie Calhoun,jamie49@example.com,2024-09-06,Google,North,Premium,No,25,Non-Binary,21-30,TKT0022-2,2024-06-09,Other,Yes,-89
+CUST00249,Jamie Calhoun,jamie49@example.com,2024-09-06,Google,North,Premium,No,25,Non-Binary,21-30,TKT0022-3,2024-06-24,Billing,Yes,-74
+CUST00250,Daniel Shepherd,daniel50@mailhub.org,2024-09-07,Facebook,,Pro,No,40,Non-Binary,31-40,TKT0023-1,2024-07-28,Technical Error,Yes,-41
+CUST00250,Daniel Shepherd,daniel50@mailhub.org,2024-09-07,Facebook,,Pro,No,40,Non-Binary,31-40,TKT0023-2,2024-08-05,Login Issue,Yes,-33
+CUST00250,Daniel Shepherd,daniel50@mailhub.org,2024-09-07,Facebook,,Pro,No,40,Non-Binary,31-40,TKT0023-3,2024-07-27,Account Setup,No,-42
+CUST00266,Christopher Hawkins,christopher66@mailhub.org,2024-09-23,,West,Basic,No,53,Other,51-60,TKT0001-1,2024-09-26,Account Setup,Yes,3
+CUST00266,Christopher Hawkins,christopher66@mailhub.org,2024-09-23,,West,Basic,No,53,Other,51-60,TKT0001-2,2024-10-09,Technical Error,No,16
+CUST00266,Christopher Hawkins,christopher66@mailhub.org,2024-09-23,,West,Basic,No,53,Other,51-60,TKT0001-3,2024-10-21,Other,No,28
+CUST00278,Jennifer Patel,jennifer78@inboxmail.net,2024-10-05,Referral,Central,Premium,Yes,40,Male,31-40,TKT0055-1,2024-05-14,Account Setup,Yes,-144
+CUST00278,Jennifer Patel,jennifer78@inboxmail.net,2024-10-05,Referral,Central,Premium,Yes,40,Male,31-40,TKT0055-2,2024-05-14,Other,No,-144
+CUST00278,Jennifer Patel,jennifer78@inboxmail.net,2024-10-05,Referral,Central,Premium,Yes,40,Male,31-40,TKT0055-3,2024-05-19,Account Setup,Yes,-139
+CUST00281,Andrew Parks,andrew81@inboxmail.net,2024-10-08,YouTube,Central,Basic,Yes,47,Male,41-50,TKT0026-1,2024-08-11,Account Setup,Yes,-58
+CUST00281,Andrew Parks,andrew81@inboxmail.net,2024-10-08,YouTube,Central,Basic,Yes,47,Male,41-50,TKT0026-2,2024-08-13,Billing,Yes,-56
+CUST00286,Bethany Campbell,bethany86@mailhub.org,2024-10-13,Google,North,Premium,Yes,21,Male,21-30,TKT0042-1,2024-10-19,Account Setup,Yes,6
+CUST00286,Bethany Campbell,bethany86@mailhub.org,2024-10-13,Google,North,Premium,Yes,21,Male,21-30,TKT0042-2,2024-10-30,Technical Error,Yes,17
+CUST00286,Bethany Campbell,bethany86@mailhub.org,2024-10-13,Google,North,Premium,Yes,21,Male,21-30,TKT0042-3,2024-11-01,Technical Error,Yes,19
+CUST00289,Daniel Dunn,daniel89@example.com,2024-10-16,Referral,West,Basic,No,,Male,,TKT0016-1,2024-11-10,Billing,Yes,25
+CUST00295,Gary Smith,gary95@example.com,2024-10-22,Google,West,Premium,Yes,40,,31-40,TKT0027-1,2024-11-01,Other,Yes,10
+CUST00297,Timothy Mclaughlin,,2024-10-24,Instagram,West,Basic,Yes,60,,51-60,TKT0054-1,2024-11-09,Other,Yes,16
+CUST00297,Timothy Mclaughlin,,2024-10-24,Instagram,West,Basic,Yes,60,,51-60,TKT0054-2,2024-11-01,Account Setup,Yes,8
+CUST00297,Timothy Mclaughlin,,2024-10-24,Instagram,West,Basic,Yes,60,,51-60,TKT0054-3,2024-11-13,Technical Error,Yes,20
